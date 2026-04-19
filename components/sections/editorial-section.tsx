@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const specs = [
   { label: "Listed Resources", value: "50+" },
-  { label: "Categories", value: "6" },
+  { label: "Categories", value: "12" },
   { label: "Forsyth County Residents", value: "260K" },
   { label: "Cost to Use", value: "Free" },
 ];
@@ -30,8 +30,8 @@ export function EditorialSection() {
       {/* Full-width Image */}
       <div className="relative aspect-[16/9] w-full md:aspect-[21/9]">
         <Image
-          src="/images/lake-lanier.jpg"
-          alt="Lake Lanier at sunset near Cumming, Georgia"
+          src="/images/lake-lanier-editorial.png"
+          alt="Panoramic view of Lake Lanier at sunset in Forsyth County, Georgia"
           fill
           className="object-cover"
         />

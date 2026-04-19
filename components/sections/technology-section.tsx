@@ -60,25 +60,25 @@ function ScrollRevealText({ text }: { text: string }) {
 
 const sideImages = [
   {
-    src: "/images/cumming-food-pantry.jpg",
+    src: "/images/cumming-food-pantry.png",
     alt: "The Place of Forsyth County food pantry",
     position: "left",
     span: 1,
   },
   {
-    src: "/images/cumming-senior-center.jpg",
+    src: "/images/cumming-senior-center.png",
     alt: "Forsyth County Senior Services",
     position: "left",
     span: 1,
   },
   {
-    src: "/images/lake-lanier.jpg",
+    src: "/images/lake-lanier.png",
     alt: "Lake Lanier",
     position: "right",
     span: 1,
   },
   {
-    src: "/images/bald-ridge-lodge.jpg",
+    src: "/images/bald-ridge-lodge.png",
     alt: "Bald Ridge Lodge youth mentoring programs",
     position: "right",
     span: 1,
@@ -198,7 +198,7 @@ export function TechnologySection() {
               }}
             >
               <Image
-                src="/images/sawnee-mountain.jpg"
+                src="/images/sawnee-mountain.png"
                 alt="Sawnee Mountain overlook in Forsyth County"
                 fill
                 className="object-cover"

@@ -7,26 +7,26 @@ const word = "CONNECT";
 
 const sideImages = [
   {
-    src: "/images/cumming-hospital.jpg",
+    src: "/images/cumming-hospital.png",
     alt: "Northside Hospital Forsyth",
     position: "left",
     span: 1,
   },
   {
-    src: "/images/cumming-library.jpg",
+    src: "/images/cumming-library.png",
     alt: "Forsyth County Public Library",
     position: "left",
     span: 1,
   },
   {
-    src: "/images/sawnee-mountain.jpg",
+    src: "/images/sawnee-mountain.png",
     alt: "Sawnee Mountain Preserve",
     position: "right",
     span: 1,
   },
   {
-    src: "/images/cumming-parks.jpg",
-    alt: "Forsyth County Parks & Recreation",
+    src: "/images/vickery-village.png",
+    alt: "Vickery Village Cumming",
     position: "right",
     span: 1,
   },

@@ -12,14 +12,14 @@ export function GallerySection() {
   const lastScrollRef = useRef(0);
 
   const images = [
-    { src: "/images/cumming-city-center.jpg", alt: "Cumming City Center" },
-    { src: "/images/sawnee-mountain.jpg", alt: "Sawnee Mountain Preserve" },
-    { src: "/images/cumming-hospital.jpg", alt: "Northside Hospital Forsyth" },
-    { src: "/images/lake-lanier.jpg", alt: "Lake Lanier shoreline" },
-    { src: "/images/cumming-library.jpg", alt: "Forsyth County Public Library" },
+    { src: "/images/cumming-city-center.png", alt: "Cumming City Center" },
+    { src: "/images/sawnee-mountain.png", alt: "Sawnee Mountain Preserve" },
+    { src: "/images/cumming-hospital.png", alt: "Northside Hospital Forsyth" },
+    { src: "/images/lake-lanier.png", alt: "Lake Lanier shoreline" },
+    { src: "/images/cumming-library.png", alt: "Forsyth County Public Library" },
     { src: "/images/cumming-parks.jpg", alt: "Forsyth County Parks & Recreation" },
-    { src: "/images/cumming-food-pantry.jpg", alt: "The Place of Forsyth County" },
-    { src: "/images/cumming-volunteers.jpg", alt: "Local community volunteers" },
+    { src: "/images/cumming-food-pantry.png", alt: "The Place of Forsyth County" },
+    { src: "/images/vickery-village.png", alt: "Vickery Village Cumming" },
   ];
 
   // Calculate section height based on content width

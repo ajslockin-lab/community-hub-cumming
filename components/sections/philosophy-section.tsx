@@ -83,7 +83,7 @@ export function PhilosophySection() {
                 }}
               >
                 <Image
-                  src="/images/cumming-hospital.jpg"
+                  src="/images/cumming-hospital.png"
                   alt="Northside Hospital Forsyth"
                   fill
                   className="object-cover"
@@ -113,7 +113,7 @@ export function PhilosophySection() {
                 }}
               >
                 <Image
-                  src="/images/cumming-library.jpg"
+                  src="/images/cumming-library.png"
                   alt="Forsyth County Public Library"
                   fill
                   className="object-cover"
